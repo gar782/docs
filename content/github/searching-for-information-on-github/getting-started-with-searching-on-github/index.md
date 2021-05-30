@@ -1,3 +1,4 @@
+Run
 ---
 title: Getting started with searching on GitHub
 redirect_from:
